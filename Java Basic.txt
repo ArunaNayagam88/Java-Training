@@ -1,0 +1,45 @@
+Java Basics
+===========
+
+Object Oriented Programming
+============================
+
+Class - is like blue print
+Object - is like the bulit house out of the blue print
+     -- multiple object can be created for a class
+	 
+	 
+Abstraction - check for the details required
+Encapsulation - inbuilt details that are hidden from the system
+Inheritance - inherit from another class
+Polymorphism - based on the context the behaviour differs
+
+Overridding - can change the details that are inherited in the lower class as per the context
+
+
+Static - 
+Final - can not change the implementaion of it... this is used for variable and methord's 
+Abstract -  Can be used in class level and methord's. 
+		- abstract in class can not used to 
+		-  Abstract methord has to be implemented in abstract class. this methord should only be decleared (body should not be given)
+		- In inherited (extended class) the Abstract methord has to be defined.
+		
+
+		
+Class can be extended. Extend only one class
+Interface class - implements class -- all methord are abstract 100% -- can implemnts many class
+
+
+
+Debugging:
+==========
+
+-- set breakpoint.
+-- F6 to run line by line
+-- F8 to continue running
+
+
+a569687
+Safara online - HeadFirst Java
+
+Github - code 
